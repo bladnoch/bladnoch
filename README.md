@@ -4,4 +4,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,dart,flutter,r,c,cpp)](https://skillicons.dev)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--주석-->
