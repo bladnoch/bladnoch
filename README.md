@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Welcome to my place ;) </h1>
+<h1 align="center">;) </h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bladnoch&hide=cmake&langs_count=5)
 
