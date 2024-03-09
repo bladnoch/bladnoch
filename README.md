@@ -26,12 +26,13 @@ test
 </p> 
 -->
 
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
+
 <span><img src="https://img.shields.io/badge/Java-FF3621?style=flat&logo=Java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-8BC34A?style=flat&logo=Spring&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/><span>
 <span><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/><span>
 <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/><span>
 <span><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/></span>
